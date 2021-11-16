@@ -4,4 +4,9 @@ Como estan?
 
 Tengo 45 años
 
-Vivo en el Sociego
+Vivo en el Madrid
+
+Hobbie: Aprender Git
+Estudia: Python
+Proyectos: Paginas Web ["Centro Cel Tecnicos", "Lazzer Tecnology", "Licores", "Comics"]
+
