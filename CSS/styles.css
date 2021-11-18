@@ -1,17 +1,37 @@
 body {
-  background-color: rgb(0, 139, 97);
+  /* background-color: rgb(0, 139, 97);
   text-align: center;
-  color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255); */
+}
+.mainCont {
+  display: flex;
+  width: 800px;
+  height: 300px;
+  border-radius: 25px 5px 50px 0px;
+  padding: 25px;
+  background-color: #507fff;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
 h1 {
+  display: flex;
+  font-size: x-large;
   color: black;
-  text-shadow: 10px, 5px, 5px rgb(255, 255, 255);
-  text-shadow: 10px, 5px, 5px rgb(255, 255, 255);
+  text-shadow: 5px 3px 5px rgb(53, 8, 8);
 }
 .container {
+  border-radius: 25px 5px 50px 0px;
+  padding: 25px;
+  background-color: #ffffff;
+  margin-top: 50px;
+  box-shadow: 5px 3px 10px 2px rgb(178, 178, 178);
+  display: flex;
   width: 200px;
   height: 200px;
-  margin: auto;
   text-align: left;
   border-style: double;
+}
+p {
+  padding: 10px;
+  color: rgb(255, 0, 0);
 }
